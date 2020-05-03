@@ -1,48 +1,41 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My interests include data science, business analytics, and business intelligence.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MSc in Data Analytics
+    institution: Villanova University
+    year: 2020
+  - course: BSc in Mechanical Engineering
+    institution: University of Delaware
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: "wtmoreland3@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Business Analytics
+- Business Intelligence
 organizations:
-- name: Stanford University
+- name: PennEngineering
   url: ""
-role: Professor of Artificial Intelligence
+role: Market Analytics Manager
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/WavebreakData
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/wtmoreland3
 superuser: true
-title: Nelson Bighetti
+title: Bill Moreland
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bill Moreland is the Market Analytics Manager at PennEngineering. I live just north of Baltimore, MD and have over seven years of professional experience in various data-related roles.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I plan to use this website to highlight some of my personal work as I continue to gain more experience in the field of Data Science. 
